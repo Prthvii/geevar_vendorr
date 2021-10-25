@@ -1,0 +1,287 @@
+{
+  "project_info": {
+    "project_number": "884819781652",
+    "project_id": "elumart-93d6f",
+    "storage_bucket": "elumart-93d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:19ba9cf3f5b74acfad5f01",
+        "android_client_info": {
+          "package_name": "com.apsara.zomatotemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:ae077cc8f12966b8ad5f01",
+        "android_client_info": {
+          "package_name": "com.elumart.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:ac1baf77b9390e0cad5f01",
+        "android_client_info": {
+          "package_name": "com.elumart.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-pjep058f6dluqscvcr4ck0387tcm4g0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elumart.delivery",
+            "certificate_hash": "12b13cb473e4427693285783fa58852519fc4484"
+          }
+        },
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:d078be1d189a546fad5f01",
+        "android_client_info": {
+          "package_name": "com.elumart.kerala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:1cfba5ec728872dcad5f01",
+        "android_client_info": {
+          "package_name": "com.elumart.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-vk8pr46u0pu13tcrufboc1k5jr9fjtmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elumart.vendor",
+            "certificate_hash": "7dbf0c71c89b8605ee89e93e0b484f53bed44b64"
+          }
+        },
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:159605cbc3d5f302ad5f01",
+        "android_client_info": {
+          "package_name": "com.geevar.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:753003021b9d1e8bad5f01",
+        "android_client_info": {
+          "package_name": "com.geevar.geevar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:eb60abfb25526d2cad5f01",
+        "android_client_info": {
+          "package_name": "com.geevar.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884819781652:android:b4dffe39253fe89bad5f01",
+        "android_client_info": {
+          "package_name": "com.movie.mtalkie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCt9IwsIK377SLkUC_MixLbU4P6ObGPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884819781652-1agapcminllq9jm60it7c23q2ui50hnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
